@@ -1,5 +1,5 @@
 import streamlit as st
-import numpy
+import numpy as np
 st.write('Hello, Welome')
 from PIL import Image
 from pathlib import Path
